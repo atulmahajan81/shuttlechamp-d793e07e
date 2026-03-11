@@ -1,0 +1,11 @@
+.git
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv
+build
+node_modules
+dist
+frontend/out
